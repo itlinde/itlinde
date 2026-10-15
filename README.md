@@ -1,8 +1,8 @@
-## Hey, I'm Isabella :)
+## 🫧 Hey, I'm Isabella :)
 
-I'm a second year Computer Engineering student who lives on both the dev and design parts of solving problems. 
+☕️ I'm a second year Computer Engineering student who lives on both the dev and design parts of solving problems. 
 
-Check out my portfolio at [isabellalinde.ca](https://www.isabellalinde.ca/)!
+💿 Check out my portfolio at [isabellalinde.ca](https://www.isabellalinde.ca/)!
 
 ## My Stack
  
